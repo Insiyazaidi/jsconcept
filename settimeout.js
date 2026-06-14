@@ -19,3 +19,25 @@
   // agr cancel phle call out hogya toh fn ka result show hi nhi hoga 
 
   // agr cancel m time maine less than t likha toh vo phle cancel krdega result show hone se 
+
+ // Socho tumne pizza order kiya.
+
+   // setTimeout(...)
+
+  //Pizza order place karna.
+
+  // id = 5
+
+   // Order number mil gaya.
+
+  // Abhi pizza bana nahi hai.
+
+ // Agar tum:
+
+  // clearTimeout(5)
+
+  // kar do,
+
+ //  to order cancel ho jayega.
+
+ // Pizza bana hi nahi tha, phir bhi cancel ho gaya kyunki order number pehle mil gaya tha
